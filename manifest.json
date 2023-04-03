@@ -1,9 +1,11 @@
 {
   "name": "Food Ninja",
   "short_name": "FoodNinja",
-  "start_url": "./index.html",
+  "start_url": "/exp1/",
   "display": "standalone",
+  "scope": "/exp1/",
   "background_color": "#FFE9D2",
+  "description": "Github Page as a Progressive Web App",
   "theme_color": "#FFE1C4",
   "orientation": "portrait-primary",
   "icons": [
